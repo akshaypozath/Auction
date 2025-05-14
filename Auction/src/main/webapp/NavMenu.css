@@ -1,0 +1,60 @@
+body {
+  background-color: lightblue;
+}
+
+.basic-btn{
+  border: none;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.title {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+.sub-title {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+
+.dropdown-options1 {
+  display: none;
+  position: absolute;
+  overflow: auto;
+  
+}
+
+.dropdown-options2 {
+  display: none;
+  position: absolute;
+  overflow: auto;
+ 
+}
+
+.dropdown-options3 {
+  display: none;
+  position: absolute;
+  overflow: auto;
+  
+}
+
+.dropdown:hover .dropdown-options1 {
+  display: block;
+}
+
+.username-display{
+	display: contents;
+	font-size: 20px;
+}

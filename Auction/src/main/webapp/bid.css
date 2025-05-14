@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+
+.bid-information{
+	padding: 20px;
+    text-align: center;
+   	justify-content: center;
+   	display: grid;
+}
+
+.manual-bid{
+	padding-bottom: 20px;
+}
+.bids{
+	text-align: center;
+    display: grid;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.border{
+	border-bottom:1px solid gray;
+}
+.bidhistory-wrapper{
+	text-align: center;
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+}

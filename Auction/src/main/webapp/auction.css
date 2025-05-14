@@ -1,0 +1,34 @@
+body {
+  background-color: lightblue;
+}
+
+.basic-btn{
+  border: none;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.content-wrapper{
+	text-align: center;
+	justify-content: center;
+	display: grid;
+}
+
+.title {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+.auctionPageOptions{
+  text-align: center;
+}
+.status{
+	font-size: 20px;
+	color: #007bff; 
+    cursor: pointer;
+    text-decoration: underline;
+}

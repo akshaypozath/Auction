@@ -1,0 +1,49 @@
+body {
+  background-color: lightblue;
+}
+
+.basic-btn{
+  border: none;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.title {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+}
+.pickup {
+  text-align: center;
+  justify-content: center;
+}
+	
+
+.sub-title {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 20px;
+}
+.carImage{
+	width: 100px;
+	height: 100px;
+}
+.item-title{
+	font-size: 20px;
+	color: #007bff; 
+    cursor: pointer;
+    text-decoration: underline;
+}
+.categorylisting{
+text-align: center;
+  justify-content: center;
+}
+
+	
+	
+	
+	
